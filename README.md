@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [demo](https://emojianimation.netlify.app/)
-📫 How to reach me: ...(https://www.linkedin.com/in/rohitkumarsingh/)
+- 📫 How to reach me: ...(https://www.linkedin.com/in/rohitkumarsingh/)
