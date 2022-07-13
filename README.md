@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png/>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumarsingh369&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumarsingh369" /> </p>
 
 <h3 align="left">Connect with me:</h3>
